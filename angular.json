@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DataSetDiff"
+    }
+  },
+  "defaultProject": "DataSetDiff",
+  "cli": {
+    "analytics": "85a90ed8-b63f-41bf-8353-d9cea56902a1"
+  }
 }
